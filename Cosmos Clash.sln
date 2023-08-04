@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cosmos Clash", "Cosmos Clash\Cosmos Clash.csproj", "{809FBD7C-18C9-4F61-8683-9BA214ECD70F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{809FBD7C-18C9-4F61-8683-9BA214ECD70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809FBD7C-18C9-4F61-8683-9BA214ECD70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809FBD7C-18C9-4F61-8683-9BA214ECD70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809FBD7C-18C9-4F61-8683-9BA214ECD70F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC413798-B522-4F30-B3AA-6AF26E593EE5}
+	EndGlobalSection
+EndGlobal
